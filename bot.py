@@ -14,4 +14,11 @@ async def on_ready():
 async def ip(ctx):
     await ctx.send("`Ainda nao temos ip!`")
 
+@bot.command()
+async def afonso(ctx):
+    await ctx.send("`I'm afonso and i'm gay`")
+
+    
+    
+    
 bot.run('NTIyMDc4NzU4NDUxMjgxOTIx.DvFy2A.yuqHZvNIVVJ6h-jRRA-wJ6QOXLg')
