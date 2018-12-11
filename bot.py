@@ -11,7 +11,8 @@ async def on_ready():
     print('------')
 
 @bot.command()
-async def greet(ctx):
-    await ctx.send(":smiley: :wave: Hello, there!")
+async def ip(ctx):
+    await ctx.send("```css
+Ainda nao temos ip!```")
 
 bot.run('NTIyMDc4NzU4NDUxMjgxOTIx.DvFy2A.yuqHZvNIVVJ6h-jRRA-wJ6QOXLg')
