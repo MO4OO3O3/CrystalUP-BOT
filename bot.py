@@ -12,7 +12,6 @@ async def on_ready():
 
 @bot.command()
 async def ip(ctx):
-    await ctx.send("```css
-Ainda nao temos ip!```")
+    await ctx.send("`Ainda nao temos ip!`")
 
 bot.run('NTIyMDc4NzU4NDUxMjgxOTIx.DvFy2A.yuqHZvNIVVJ6h-jRRA-wJ6QOXLg')
