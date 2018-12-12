@@ -12,7 +12,7 @@ async def on_ready():
 
 @bot.command()
 async def ip(ctx):
-    await ctx.send("`Ainda nao temos ip!`")
+    await ctx.send("```css O servidor ira ser aberto em 25/12```")
 
 @bot.command()
 async def afonso(ctx):
