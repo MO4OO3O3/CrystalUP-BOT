@@ -21,9 +21,8 @@ async def afonso(ctx):
 @bot.command()
 async def projetos(ctx):
     await ctx.send("Meus Projetos:")
-    await ctx.send("https://gamersboard.com.br/topic/63623-morais-minas-ganhe-dinheiro-ao-minerar/")
-    await ctx.send("")
-    await ctx.send("No futuro irei adicionar mais!")
+    await ctx.send("https://www.youtube.com/watch?v=8Y0j7v8ty_0")
+    await ctx.send("```No futuro irei adicionar mais!```")
     
     
 bot.run('NTIyMDc4NzU4NDUxMjgxOTIx.DvFy2A.yuqHZvNIVVJ6h-jRRA-wJ6QOXLg')
