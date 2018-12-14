@@ -31,10 +31,10 @@ async def nodi(ctx):
     
 @bot.command()
 async def dinheiro(ctx):
-    await ctx.send("`INFO:`)
-    await ctx.send("Porquinho para pagar a Host")
+    await ctx.send("`INFO`)
+    await ctx.send("`Porquinho para pagar a Host`")
     await ctx.send("`00/10€`")
-    await ctx.send("Caso queiras Doar")
+    await ctx.send("`Caso queiras Doar`")
     await ctx.send("https://www.paypal.me/crystalup")
     
     
