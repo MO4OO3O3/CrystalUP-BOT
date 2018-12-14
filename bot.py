@@ -38,4 +38,4 @@ async def dinheiro(ctx):
     await ctx.send("https://www.paypal.me/crystalup")
     
     
-bot.run('NTIyMDc4NzU4NDUxMjgxOTIx.DvFy2A.yuqHZvNIVVJ6h-jRRA-wJ6QOXLg')
+bot.run('NTIyMDc4NzU4NDUxMjgxOTIx.DvWmjQ.32cOZwPOsw-dvqI0sbYVtArYMOo')
