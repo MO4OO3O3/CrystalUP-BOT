@@ -29,5 +29,12 @@ async def nodi(ctx):
     await ctx.send("Amo-te Nodi")
     await ctx.send("https://www.youtube.com/watch?v=iY-BC-NqDSI")
     
+@bot.command()
+async def dinheiro(ctx):
+    await ctx.send("Porquinho para pagar a Host `INFO:`")
+    await ctx.send("00/10€")
+    await ctx.send("Caso queiras Doar")
+    await ctx.send("https://www.paypal.me/crystalup")
+    
     
 bot.run('NTIyMDc4NzU4NDUxMjgxOTIx.DvFy2A.yuqHZvNIVVJ6h-jRRA-wJ6QOXLg')
